@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Hanior Nabem Nathaniel</h1>
 <h3 align="center">Entry Level Developer and Aspiring SOC Analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hanior_nabem" target="blank"><img src="https://img.shields.io/twitter/follow/hanior_nabem?logo=twitter&style=for-the-badge" alt="hanior_nabem" /></a> </p>
 
-- 🌱 I’m currently learning **Java, tryhackme SOC Analyst level 1 course**
+- 🌱 I’m currently learning **Java, Tryhackme SOC Analyst level 1 course**
 
 - 💬 Ask me about **C, Cyber Security**
 
@@ -29,9 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabemh&show_icons=true&locale=en&layout=compact" alt="nabemh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabemh&show_icons=true&locale=en" alt="nabemh" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabemh&" alt="nabemh" /></p>
-
 
 <!--
 **Nabemh/Nabemh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
