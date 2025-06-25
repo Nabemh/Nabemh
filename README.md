@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabemh&label=Profile%20views&color=0e75b6&style=flat" alt="nabemh" /> </p>
 
-- 🌱 I’m currently learning **The MERN Stack**
-
-- 💬 Ask me about **Cyber Security, DevOps, Cloud**
-
 - 📫 How to reach me **nhanior@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
